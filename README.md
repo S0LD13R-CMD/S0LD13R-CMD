@@ -1,7 +1,7 @@
-## I like to overthink (or not think at all)
-## - 🌱 I’m currently learning Java, Javascript & C++
-## - 📫 How to reach me: sh221may@gmail.com
-## - ⚡ Fun fact: I like to read on theology & I have a bank draining, book buying addiction
+###### I like to overthink (or not think at all)
+###### - 🌱 I’m currently learning Java, Javascript & C++
+###### - 📫 How to reach me: sh221may@gmail.com
+###### - ⚡ Fun fact: I like to read on theology & I have a bank draining, book buying addiction
 <!--
 **S0LD13R-CMD/S0LD13R-CMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
