@@ -1,5 +1,5 @@
 ###### I like to overthink (or not think at all)
-###### - 🌱 I’m currently learning Java, Javascript & C++
+###### - 🌱 I’m currently learning Java & Typescript
 ###### - 📫 How to reach me: sh221may@gmail.com
 ###### - ⚡ Fun fact: I like to read on theology & I have a bank draining, book buying addiction
 <!--
